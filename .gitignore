@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+.env.test
+
+# SQLite database
+database.sqlite
+*.db
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
